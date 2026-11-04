@@ -60,18 +60,26 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos relacionados �
 
 
 
+
 ### 📊 Estatísticas
 
-<p align="center">
+<p>
   <img
-    height="200"
-    src="https://ghstats.dev/api/card?username=DantisInfernum&theme=tokyonight"
+    align="left"
     alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="./profile/stats.svg"
   />
 
   <img
-    height="200"
-    src="https://ghstats.dev/api/languages?username=DantisInfernum&theme=tokyonight"
+    align="left"
     alt="Linguagens mais utilizadas"
+    height="200"
+    src="./profile/top-langs.svg"
   />
 </p>
+
+<br/>
+<br/>
+
