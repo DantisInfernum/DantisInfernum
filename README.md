@@ -57,18 +57,14 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos relacionados �
 - **Safe Charge:** sistema inteligente de segurança para carregadores, desenvolvido com ESP32, C++ e sensores, com monitoramento e controle de energia.
 - **Controle de Faltas com IA:** automação para acompanhamento de frequência acadêmica utilizando n8n, Google Sheets e inteligência artificial.
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://ghstats.dev/api/card?username=DantisInfernum&theme=tokyonight"
     alt="Estatísticas do GitHub"
   />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-    alt="Linguagens mais utilizadas"
-  />
 </div>
+
