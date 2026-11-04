@@ -57,29 +57,23 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos relacionados �
 - **Safe Charge:** sistema inteligente de segurança para carregadores, desenvolvido com ESP32, C++ e sensores, com monitoramento e controle de energia.
 - **Controle de Faltas com IA:** automação para acompanhamento de frequência acadêmica utilizando n8n, Google Sheets e inteligência artificial.
 
-
-
-
-
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
-    src="./profile/stats.svg"
+    src="https://raw.githubusercontent.com/DantisInfernum/DantisInfernum/main/profile/stats.svg"
   />
 
   <img
     align="left"
     alt="Linguagens mais utilizadas"
     height="200"
-    src="./profile/top-langs.svg"
+    src="https://raw.githubusercontent.com/DantisInfernum/DantisInfernum/main/profile/top-langs.svg"
   />
 </p>
 
 <br/>
 <br/>
-

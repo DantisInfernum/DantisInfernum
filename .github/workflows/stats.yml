@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Gerar cartão de estatísticas
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=DantisInfernum&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br
