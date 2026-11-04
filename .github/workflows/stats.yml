@@ -6,25 +6,24 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Gerar GitHub Stats
-        id: stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=DantisInfernum&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Gerar linguagens
@@ -33,7 +32,7 @@ jobs:
           card: top-langs
           options: username=DantisInfernum&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Salvar imagens
         run: |
