@@ -59,27 +59,16 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos relacionados �
 
 ### 📊 Estatísticas do GitHub
 
-<p>
+<div align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="180"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
   />
 
   <img
-    align="left"
-    alt="Linguagens mais utilizadas"
-    height="180"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    alt="Linguagens mais utilizadas"
   />
-</p>
-
-<br/>
-<br/>
-
----
-
-<p align="center">
-  <i>Transformando ideias em soluções através da tecnologia.</i>
-</p>
+</div>
