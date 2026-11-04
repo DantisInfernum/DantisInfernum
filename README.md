@@ -59,21 +59,19 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos relacionados �
 
 
 
+
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=DantisInfernum&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://ghstats.dev/api/card?username=DantisInfernum&theme=tokyonight"
+    alt="GitHub Stats"
   />
 
   <img
-    align="left"
-    alt="Linguagens mais utilizadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantisInfernum&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    src="https://ghstats.dev/api/languages?username=DantisInfernum&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
   />
 </p>
